@@ -1,8 +1,9 @@
 body {
-	font-size: large;
+	font-size: x-large;
 	font-family: "Cormorant Garamond", serif;
 }
 .centro {text-align: center;}
 header {background-color: #824d17}
 footer {background-color: #6f4d2a}
 main {background-color: #fcfccf}
+.textoblanco {color: #f7f7a1}
