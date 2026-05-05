@@ -7,6 +7,7 @@ body {
 .centro {text-align: center;}
 header {background-color: #824d17;}
 footer {background-color: #6f4d2a;}
+.linkfooter {color: #f7f7a1}
 main {background-color: #fcfccf;}
 .textoblanco {color: #f7f7a1;}
 
@@ -23,3 +24,5 @@ main h2 {
 	text-decoration-thickness: -40%;
 }
 blockquote {background-color: #fafa9e;}
+
+#articulo {color: #f67e55}
