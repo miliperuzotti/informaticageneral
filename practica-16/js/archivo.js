@@ -1,8 +1,8 @@
 //declaracion variables
-let miNombre="Milagros";
-let miApellido="Peruzotti"
+let miNombre="Milagrrrrrrrros";
+let miApellido="Peruzottttttti"
 let combinados=miNombre+miApellido
-let edad=18
+let edad=20
 //declaracion constantes
-const una="Universidad Nacional de las Artes"
+const una="Universidad Nacional de las viejas"
 console.log(miNombre, miApellido, edad, una)
